@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 qualquer coisa mais pode consultar o chat ou deepseek ou até mesmo o copilot do 
 vscode
 
@@ -191,3 +192,6 @@ git ac "sua descrição"
  é só ir no terminal:
  digita Q
  depois apertar Enter
+=======
+Apenas nosso projeto de maneira limpa pra o senhor testar!
+>>>>>>> dc93ccca21ce799a4fe71d76e05acbb793147de9
